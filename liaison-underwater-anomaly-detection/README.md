@@ -117,7 +117,6 @@ liaison-underwater-anomaly-detection/
 │   ├── automated_label_points.py
 │   └── labeling_parameters.txt
 ├── model/
-│   ├── pointnet_two_stage.ipynb
 │   └── pointnet_two_stage_with_timing.ipynb
 ├── images/
 │   └── example_synthetic_scene.jpg
