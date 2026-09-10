@@ -50,7 +50,7 @@ asl-alphabet-recognition/
 ├── custom_test_set/
 ├── figures/
 └── report/
-    ├── DAEN_429_Project_Report.docx
+    ├── Project Report.pdf
 ```
 
 ## Running the notebook
