@@ -121,7 +121,7 @@ liaison-underwater-anomaly-detection/
 ├── images/
 │   └── example_synthetic_scene.jpg
 ├── poster/
-│   └── Project_LiAISon_Showcase_Poster.pptx
+│   └── Project LiAISon Poster.pdf
 └── documentation/
     └── Project_LiAISon_Final_Report.pdf
 ```
