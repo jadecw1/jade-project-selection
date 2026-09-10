@@ -1,0 +1,23 @@
+# OS / notebook artifacts
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Python environments
+.venv/
+venv/
+
+# Large/generated project outputs
+*.blend
+*.ply
+*.xyz
+*.las
+*.hdf5
+*.h5
+output/
+outputs/
+models/
+checkpoints/
+*.pth
+*.pt

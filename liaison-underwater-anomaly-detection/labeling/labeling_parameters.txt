@@ -1,0 +1,12 @@
+# Labeling parameters
+BBOX_MARGIN = 0.2
+DEFAULT_CLASS = 0
+class_names = {
+    0: 'seafloor', 
+    1: 'cube_anomaly',      #  Cube
+    2: 'sphere_anomaly',    #  Sphere
+    3: 'boat_anomaly',      #  Boat
+    4: 'coral', 
+    5: 'rock', 
+    6: 'wildlife'
+}
