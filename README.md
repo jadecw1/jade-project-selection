@@ -2,7 +2,7 @@
 
 Selected projects demonstrating my experience with data engineering, analytics, machine learning, and applied technical problem-solving.
 
-I am a Texas A&M University graduate with a B.S. in Data Engineering. This repository includes selected work completed through my Data Engineering coursework and Capstone at Texas A&M, as well as research completed during my BIG-TCR summer internship at the McWilliams School of Biomedical Informatics at UTHealth Houston.
+This repository includes selected work completed through my Data Engineering coursework and Capstone at Texas A&M, as well as research completed during my BIG-TCR summer internship at the McWilliams School of Biomedical Informatics at UTHealth Houston.
 
 ## Projects
 
